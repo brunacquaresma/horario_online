@@ -1,8 +1,9 @@
 # horario_online
-Relógio - README
+##Relógio - README
+
 Este é um projeto de um relógio digital desenvolvido em HTML, CSS e JavaScript. O objetivo é exibir a hora atual e uma mensagem correspondente ao período do dia (madrugada, manhã, tarde ou noite), além de alterar a imagem de fundo de acordo com o período.
 
-Passo a Passo
+###Passo a Passo
 Siga os passos abaixo para utilizar o Relógio:
 
 Abra o arquivo index.html em um navegador web compatível.
