@@ -33,6 +33,6 @@ Caso deseje personalizar a aparência do relógio, você pode modificar o arquiv
 Você também pode substituir as imagens existentes por outras que representem os períodos do dia. Certifique-se de nomear corretamente as imagens e atualizar as condições de verificação do horário no código JavaScript.
 
 ## Créditos
-Este projeto foi desenvolvido como parte de um exemplo de aplicação prática de HTML, CSS e JavaScript. O crédito pelo conteúdo e código fonte utilizado pertence aos seus respectivos criadores.
+Este projeto foi desenvolvido como parte de um exemplo de aplicação prática de HTML, CSS e JavaScript. O crédito pelo conteúdo e código fonte utilizado pertence aos seus respectivos criadores. ©Curso em Video.
 
 Importante: Este projeto é apenas para fins educacionais e de demonstração. O relógio não possui funcionalidades avançadas e pode não ser preciso em relação à hora atual. É recomendado utilizá-lo apenas como um exemplo de aplicação básica de programação web.
