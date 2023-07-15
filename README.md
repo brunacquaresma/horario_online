@@ -2,7 +2,7 @@
 
 ## Relógio
 
-Este é um projeto de um relógio digital desenvolvido em HTML, CSS e JavaScript. O objetivo é exibir a hora atual e uma mensagem correspondente ao período do dia (madrugada, manhã, tarde ou noite), além de alterar a imagem de fundo de acordo com o período.
+Este é um projeto de um relógio digital desenvolvido em HTML, CSS e JavaScript. O objetivo é exibir a hora, minutos e segundos atuais e uma mensagem correspondente ao período do dia (madrugada, manhã, tarde ou noite), além de alterar a imagem de fundo de acordo com o período.
 
 ## Passo a Passo
 
